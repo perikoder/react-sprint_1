@@ -1,13 +1,7 @@
-/* VARIABLES */
-
-:root {
-    --max-phone-width: 575.98px;
-    --max-tablet-width: 767.98px;
-  }
-
 #page-wrapper {
-    margin: 0;
+    max-width: 1200px;
     padding: 0;
+    margin: auto;    
 }
 
 /* HEADER */
